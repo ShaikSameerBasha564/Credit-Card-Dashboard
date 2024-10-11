@@ -23,13 +23,16 @@ Key Features
         Bills and Entertainment are the largest expenditure types, driving a significant portion of total revenue.
 * Top Performing States:
         Texas, New York, and California are the top-performing states in terms of revenue, contributing between $6M and $7M each.
+  
 Visualizations
 ----------------
 The dashboard includes various graphs and charts:
+
 Revenue by Week: Shows the trend of total revenue over time.
 Revenue by Job Type: Compares the total income, revenue, and interest earned from different customer occupations.
 Revenue by Card Usage: Analyzes the contribution of card categories (Swipe, Chip, Online) to total revenue.
 Revenue by Age Group: Segments revenue based on customer age ranges, highlighting key contributors.
+
 How to Use
 -----------
 To view and explore the dashboard, you can open the Power BI report or the PDF summary attached in the repository. The visualizations provide insights that can help in business decision-making regarding credit card services.
